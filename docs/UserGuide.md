@@ -224,13 +224,13 @@ _Details coming soon ..._
 
 ## Command summary
 
-| Action     | Format, Examples                                                                                                                                                                                                                        |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Add**    | `add n/NAME p/PHONE_NUMBER e/EMAIL f/FACULTY v/VENUE m/MODULE [t/TAG]…​ [a/AVAILABILITY]…​` <br> e.g., `add n/James Ho p/22224444 e/jamesho@example.com f/Computing v/123, Clementi Rd, 1234665 m/CS2103 t/friend t/colleague a/monday` |
-| **Clear**  | `clear`                                                                                                                                                                                                                                 |
-| **Delete** | `delete INDEX`<br> e.g., `delete 3`                                                                                                                                                                                                     |
-| **Edit**   | `edit INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [f/FACULTY] [v/VENUE] [m/MODULE] [t/TAG]…​ [a/AVAILABILITY]…​`<br> e.g.,`edit 2 n/James Lee e/jameslee@example.com`                                                                     |
-| **Find**   | `find KEYWORD [MORE_KEYWORDS]`<br> e.g., `find James Jake`                                                                                                                                                                              |
-| **Sort**   | `sort [ATTRIBUTE]`<br> e.g., `sort p/`                                                                                                                                                                                                  |
-| **List**   | `list`                                                                                                                                                                                                                                  |
-| **Help**   | `help`                                                                                                                                                                                                                                  |
+Action | Format, Examples
+--------|------------------
+**Add** | `add n/NAME p/PHONE_NUMBER e/EMAIL f/FACULTY v/VENUE m/MODULE [t/TAG]…​ [a/AVAILABILITY]…​` <br> e.g., `add n/James Ho p/22224444 e/jamesho@example.com f/Computing v/123, Clementi Rd, 1234665 m/CS2103 t/friend t/colleague a/monday`
+**Clear** | `clear`
+**Delete** | `delete INDEX`<br> e.g., `delete 3`
+**Edit** | `edit INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [f/FACULTY] [v/VENUE] [m/MODULE] [t/TAG]…​ [a/AVAILABILITY]…​`<br> e.g.,`edit 2 n/James Lee e/jameslee@example.com`
+**Find** | `find KEYWORD [MORE_KEYWORDS]`<br> e.g., `find James Jake`
+**Sort** | `sort [ATTRIBUTE]`<br> e.g., `sort p/`
+**List** | `list`
+**Help** | `help`
