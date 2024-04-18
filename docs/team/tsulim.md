@@ -28,4 +28,3 @@ Given below are my contributions to the project.
   * PRs reviewed (with non-trivial review comments): [\#32](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/32), [\#104](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/104)
   * Reported bugs and suggestions for other teams in the module (examples: [1](https://github.com/AY2324S2-CS2103T-T10-1/tp/issues/368))
 
-* _{you can add/remove categories in the list above}_
