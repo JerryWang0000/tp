@@ -16,7 +16,10 @@ Given below are my contributions to the project.
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2324s2.github.io/tp-dashboard/?search=tsulim&sort=groupTitle%20dsc&sortWithin=title&since=2024-02-23&timeframe=commit&mergegroup=&groupSelect=groupByRepos&breakdown=false&tabOpen=true&tabType=authorship&tabAuthor=tsulim&tabRepo=AY2324S2-CS2103-F08-3%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other&authorshipIsBinaryFileTypeChecked=false&authorshipIsIgnoredFilesChecked=false)
 
 * **Project management**:
-  * Managed releases `v1.3` - `v1.5rc` (3 releases) on GitHub
+  * Created milestones and assigned issues to team members for `v1.1`, `v1.2`
+
+* **Enhancements to existing features**:
+  * Wrote additional tests for existing features to cover `Module` and `Availability` attributes (Pull requests [\#69](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/69), [\#80](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/80))
 
 * **Documentation**:
   * User Guide:
@@ -28,4 +31,3 @@ Given below are my contributions to the project.
   * PRs reviewed (with non-trivial review comments): [\#32](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/32), [\#104](https://github.com/AY2324S2-CS2103-F08-3/tp/pull/104)
   * Reported bugs and suggestions for other teams in the module (examples: [1](https://github.com/AY2324S2-CS2103T-T10-1/tp/issues/368))
 
-* _{you can add/remove categories in the list above}_
